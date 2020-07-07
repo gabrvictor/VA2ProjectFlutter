@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647715487660",
+    "firebase_url": "https://projetova2-c08d7.firebaseio.com",
+    "project_id": "projetova2-c08d7",
+    "storage_bucket": "projetova2-c08d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647715487660:android:3921b45793f14094ba8409",
+        "android_client_info": {
+          "package_name": "com.example.ChatVA2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647715487660-ja2ftlqjmf8riiae9dvn8ee8tujangr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7vwWG1SEn_BasRZvQikGBZ4vyjJw3Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647715487660-ja2ftlqjmf8riiae9dvn8ee8tujangr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
