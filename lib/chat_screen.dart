@@ -56,14 +56,14 @@ class _ChatScreenState extends State<ChatScreen> {
   void _sendMessage({String text, File imgFile}) async {
     final FirebaseUser user = await _getUser();
 
-    if(user == null){
+    /* if(user == null){
       _scaffoldKey.currentState.showSnackBar(
         SnackBar(
           content: Text('Não foi possível efetuar o login. Tente novamente!'),
           backgroundColor: Colors.red,
         )
       );
-    }
+    } */
 
     Map<String, dynamic> data = {
       'uid': user.uid,
